@@ -1,7 +1,7 @@
 # Street Party
-sdaf
-## The App
-cdsfasdf
+Helping a community organize and schedule events and tasks in the planning of a street party
+
+## Current App
 ### Features
 - [x] Register on the website
 - [x] Create a new party
