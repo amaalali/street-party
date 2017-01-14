@@ -1,4 +1,27 @@
 # Street Party
+sdaf
+## The App
+cdsfasdf
+### Features
+- [x] Register on the website
+- [x] Create a new party
+- [x] Create new tasks on the calendar by clicking on a specific date
+  - [x] Edit the task by clicking on the specific task
+  - [x] Assign the task by filling in an assignee
+- [x] Check the Tasks
+- [x] Check your Profile
+
+### Screenshots
+Landing Page
+![Screenshot](screenshots/Landing-Page.png "Landing Page")
+</br>
+Main calendar page
+![Screenshot](screenshots/Calendar-Page.png "Calendar Page")
+</br>
+![Screenshot](screenshots/Tasks-Page.png "Tasks Page")
+</br>
+![Screenshot](screenshots/Profile-Page.png "Profile Page")
+
 
 ## Concept
 #### Original Concept
@@ -18,16 +41,6 @@ Tom Nunn is a front end developer with a background in design. Following discuss
 </br>
 ![Screenshot](screenshots/Final-Concept-3.png "Final concept 3 by Tom Nunn")
 
-## The App
-[Street Party - Live WebApp](street-party.herokuapp.com)
-* Register on the website
-* Create a new party
-* Create new tasks on the calendar by clicking on a specific date
-  * Edit the task by clicking on the specific task
-  * Assign the task by filling in an assignee
-* Check the Tasks
-* Check your Profile
-
 ## Product Development
 #### Breaking Down the Project
 ![Screenshot](screenshots/Initial-Project-Breakdown.png "Initial project breakdown")
@@ -46,16 +59,3 @@ After having the product broken down into each category it was then necessary to
 ![Screenshot](screenshots/Kanban-Board.png "Waffle board we used to keep track of the project")
 </br>
 After breaking the project down into smaller pieces it was now possible to make them into user stories. Once they were individual user stories we were able to utilize the Kanban style of project management along with Scrum mentalities.
-
-## Product Screencaps
-![Screenshot](screenshots/Landing-Page.png "Landing Page")
-</br>
-![Screenshot](screenshots/Calendar-Page.png "Calendar Page")
-</br>
-![Screenshot](screenshots/Registration-Page.png "Registration Page")
-</br>
-![Screenshot](screenshots/Login-Page.png "Login Page")
-</br>
-![Screenshot](screenshots/Tasks-Page.png "Tasks Page")
-</br>
-![Screenshot](screenshots/Profile-Page.png "Profile Page")
